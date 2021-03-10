@@ -19,6 +19,7 @@
   ],
   "frameworks": [
     "arduino",
+    "idf",
     "espidf",
     "simba",
     "pumbaa"
