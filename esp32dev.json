@@ -22,11 +22,11 @@
   },
   "frameworks": [
     "arduino",
-    "ino",
-    "idf",
-    "espidf"
+    "espidf",
+    "simba",
+    "pumbaa"
   ],
-  "name": "Espressif ESP32 Dev Module",
+  "name": "ESP32 Dev Module",
   "upload": {
     "flash_size": "4MB",
     "maximum_ram_size": 327680,

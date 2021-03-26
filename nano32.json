@@ -19,8 +19,6 @@
   ],
   "frameworks": [
     "arduino",
-    "ino",
-    "idf",
     "espidf",
     "simba",
     "pumbaa"
